@@ -10,10 +10,12 @@ Bill:
 1x DC Mini Motor
 
 Schematic:
+
 ![image](https://github.com/user-attachments/assets/1bcb8be2-1be9-4a22-9e40-a7d4df74b7e5)
 
 
 PCB:
+
 ![image](https://github.com/user-attachments/assets/3db1d136-ad76-4e63-baca-5360df855a62)
 
 
