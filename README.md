@@ -9,6 +9,7 @@ Bill:
 2x LED, 
 1x DC Mini Motor
 
-https://github.com/lowes2/Solder-/blob/main/README.md
+
+
 
 
